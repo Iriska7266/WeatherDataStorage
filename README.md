@@ -38,7 +38,8 @@
 | PostgreSQL       | База сырых данных & Data Vault        |
 | Python           | Парсер данных (библиотека - Requests) |
 | SQLAlchemy       | ORM-фреймворк для записи данных в Raw |
-| ClickHouse (DMS) | Витрины данных и BI                   |
+| ClickHouse (DMS) | Витрины данных                        |
+| MS Power BI      | Бизнес-аналитика                      |
 | Prefect          | Оркестратор потоков данных            |
 | DBT              | Валидация и трансформация данных      |
 
